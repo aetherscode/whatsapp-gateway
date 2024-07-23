@@ -15,7 +15,7 @@ Simple WhatsApp Gateway, Built Using Baileys, Express, Sequelize + [Mazer](https
 
 # Note
 
-If you want to **request a feature**, contact my number wa.me/6287715579966
+If you want to **request a feature**, contact my number wa.me/6285798045817
 
 Because there are no other features added to this free repo
 

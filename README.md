@@ -4,13 +4,13 @@
 
 <img src="./public/image/readme/dashboard.png" width="500" alt="Img Dashboard" >
 
-Simple WhatsApp Gateway, Built Using Baileys, Express, Sequelize + [Mazer](https://github.com/zuramai/mazer)
+Simple WhatsApp Gateway, Built Using Baileys, Express, Sequelize + [Mazer](https://github.com/yushafahad17/whatsapp-gateway)
 
 </div>
 
 <p align="center">
-<a href="https://github.com/fawwaz37/whatsapp-gateway/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/fawwaz37/whatsapp-gateway" alt="Stars" /></a>
-<a href="https://github.com/fawwaz37/whatsapp-gateway/network/members" target="_blank"><img src="https://img.shields.io/github/forks/fawwaz37/whatsapp-gateway" alt="Forks" /></a>
+<a href="https://github.com/yushafahad17/whatsapp-gateway/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/fawwaz37/whatsapp-gateway" alt="Stars" /></a>
+<a href="https://github.com/yushafahad17/whatsapp-gateway/network/members" target="_blank"><img src="https://img.shields.io/github/forks/fawwaz37/whatsapp-gateway" alt="Forks" /></a>
 </p>
 
 # Note
@@ -30,7 +30,7 @@ Requirements
 ## Cloning this repo
 
 ```cmd
-> git clone https://github.com/fawwaz37/whatsapp-gateway.git
+> git clone https://github.com/yushafahad17/whatsapp-gateway.git
 > cd whatsapp-gateway
 ```
 
